@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+. myenv/bin/activate
+python3 src/hello.py
